@@ -2,5 +2,6 @@
 int main()
 {
     printf("force");
+    printf("nothing");
     return 0;
 }
